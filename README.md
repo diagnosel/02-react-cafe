@@ -51,7 +51,7 @@ The pasted assignment has no usable demo video link. The supplied markup and cou
 
 The course requires a repository named `02-react-cafe` and a working Vercel URL.
 
-Source code: [02-react-cafe on GitHub](https://github.com/AurikaSa/02-react-cafe).
+Source code: [02-react-cafe on GitHub](https://github.com/diagnosel/02-react-cafe).
 
 Live app: [Sip Happens Café](https://02-react-cafe-ivory-ten.vercel.app/).
 
